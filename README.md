@@ -29,7 +29,7 @@ $ ant -f build-book.xml retrieve-org12
 </target>
 
 ```
-- Jenkins CI tool wakes up by SCM Commit and find this change and deploy this change into **org11**
+- Jenkins CI tool wakes up by SCM Commit and find this change and deploys this change into **org11**
 
 Jenkins uses this task:
 
