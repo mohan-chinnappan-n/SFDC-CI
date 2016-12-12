@@ -320,6 +320,16 @@
         <fullName>YearStarted</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
+    <fields>
+        <fullName>comments__c</fullName>
+        <description>Account comments</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Account comments</inlineHelpText>
+        <label>comments</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>TextArea</type>
+    </fields>
     <listViews>
         <fullName>AllAccounts</fullName>
         <filterScope>Everything</filterScope>
